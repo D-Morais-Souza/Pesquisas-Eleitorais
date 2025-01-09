@@ -4,7 +4,7 @@
 #########################################
 
 # Programador: Daniel Morais de Souza
-# Última atualização # Junho/2023
+# Última atualização: Junho/2023
 
 #### Leitura dos dados ####
 
