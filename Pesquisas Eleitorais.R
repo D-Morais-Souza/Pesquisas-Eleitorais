@@ -1,3 +1,13 @@
+
+#########################################
+####### PESQUISAS ELEITORAIS ############
+#########################################
+
+# Programador: Daniel Morais de Souza
+# Última atualização # Junho/2023
+
+#### Leitura dos dados ####
+
 # Pacotes
 
 library(haven)
